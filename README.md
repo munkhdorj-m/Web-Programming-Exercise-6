@@ -1,6 +1,7 @@
-# Web Programming Exercise 5
+# Web Programming Exercise 6
 Intro to web programming pdf: 
 https://drive.google.com/file/d/1Hij2h5Z4nnLxn4MMPd3iY90xPONLrq0T/view?usp=sharing
+
 Flexbox:
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
