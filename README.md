@@ -1,14 +1,13 @@
 # Web Programming Exercise 5
 Intro to web programming pdf: 
 https://drive.google.com/file/d/1Hij2h5Z4nnLxn4MMPd3iY90xPONLrq0T/view?usp=sharing
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
-1.![image and text box](https://github.com/user-attachments/assets/2fa045eb-68a4-4dba-af5c-b8a6607ce5f5)
+1.![160039412-ab647b28-bef9-4e2e-b3ee-b6e1bff5a86c](https://github.com/user-attachments/assets/e1026a96-00e6-4775-86af-72d83b1b6295)
 
 
 
-2.![image and text box2](https://github.com/user-attachments/assets/7864800e-1b7e-4d7a-9d18-a7b60a93a39b)
-
-
+2.<img width="1186" alt="image" src="https://github.com/user-attachments/assets/62010e7f-e990-41fc-8708-39be9cffe64b" />
 
 
